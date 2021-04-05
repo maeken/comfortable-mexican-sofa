@@ -111,4 +111,4 @@ Thanks to [Roman Almeida](https://github.com/nasmorn) for contributing OEM Licen
 
 ---
 
-Copyright 2010-2018 Oleg Khabarov. Released under the [MIT license](LICENSE)
+Copyright 2010-2018 Oleg Khabarov. Released under the [MIT license](LICENSE) and [Apache license](LICENSE)
